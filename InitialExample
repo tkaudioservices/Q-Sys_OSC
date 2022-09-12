@@ -1,3 +1,4 @@
+```lua
 --[[
 The OSC library is useful and exists in the built-in libraries on the Core.
 All that the OSC library does is decode and encode messages doing the needed null value packing, 
